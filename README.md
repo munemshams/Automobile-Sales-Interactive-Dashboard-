@@ -99,7 +99,7 @@ These variables help analyze how economic conditions influence automobile sales.
 
 ---
 
-# Technologies Used
+# Python Libraries Used
 
 The project uses the following Python libraries:
 
