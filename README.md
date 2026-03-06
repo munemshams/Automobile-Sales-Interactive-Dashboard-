@@ -63,7 +63,7 @@ Allows users to choose between:
 - Recession Period Statistics
 
 ### Year Selector
-Allows users to select a specific year to analyze when the **Yearly Statistics** mode is selected.
+Allows users to select a specific year to analyze when the **Yearly Statistics** mode is selected. The time period ranges from 1980 to 2023.
 
 ---
 
@@ -131,3 +131,30 @@ This approach allows real-time interaction with the dataset.
 # How to Run the Project
 
 Run the dashboard locally using the following command:
+
+python dashboard.py
+
+After running the script, open your browser and go to:
+
+http://127.0.0.1:8050
+
+
+The interactive dashboard will appear in the browser.
+
+---
+
+# Example Insights from the Dashboard
+
+The dashboard reveals several key insights:
+
+- Automobile sales tend to decline during recession periods
+- Consumer confidence has a strong relationship with automobile sales
+- Higher unemployment rates correlate with lower vehicle sales
+- Advertising expenditure distribution varies by vehicle category
+- Vehicle price influences purchasing behavior
+
+These insights help demonstrate how macroeconomic factors influence automobile market trends.
+
+---
+
+
