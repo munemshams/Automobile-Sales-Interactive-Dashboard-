@@ -130,7 +130,7 @@ This approach allows real-time interaction with the dataset.
 
 # How to Run the Project
 
-Run the dashboard locally using the following command:
+Run the dashboard locally using the following command in any terminal (Like Powershell or CMD) :
 
 python dashboard.py
 
